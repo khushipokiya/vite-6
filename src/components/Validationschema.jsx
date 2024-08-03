@@ -1,4 +1,4 @@
-// src/validation/validationSchema.js
+// src/components/validationSchema.js
 import * as Yup from 'yup';
 
 export const validationSchema = Yup.object({
